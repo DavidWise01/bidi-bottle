@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 92
 slug  : bidi-bottle
-seal  : 8c86e4f59f6cca4ec69e1a4dd589e6ea207d61dd77ecf5a44aa8148c3d24ad93
-prev  : 798d7cf79e6ea87b4567a3adbf54e38548646f8b8fb8dba6c4849d6a57b4d9a4
-link  : 36be43a099b9ac453fe3b5d9b7ca376f75ad4ac1fa328c85bc267f61e9f2f533
-head  : f7444724835fd968bd2eac85811f9fa823a18d20a57907b4fade8d96b70b5409
+seal  : dafad3aef792ceee5e00a3799fdc454b8e1d8c46b5c02e3ccd49e6ba84b10264
+prev  : 4c8f632462bcf689996f155abdefcd8c1d8706608a8502c799c874e856c336e2
+link  : d2313ff8841e57dfe61c3dc8b8b80ddc65babd72b85984f57b05123a57fee738
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
